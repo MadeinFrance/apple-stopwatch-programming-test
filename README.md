@@ -8,7 +8,7 @@
     <img align="center" width="320" alt="preview" src="./result.png">
 </p>
 
-# Stopwatch
+# RN Apple Stopwatch
 
 Create a "Stopwatch" app from scratch and lightning fast. The goal is to develop an app able to run on iOS and Android.
 
